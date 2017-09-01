@@ -1,7 +1,7 @@
 <?php
 $servername = "sql305.byethost32.com";
 $username = "b32_20212869";
-$password = "6ampoana";
+$password = "notARealPassword";
 $dbname = "b32_20212869_shoutboom";
 
 // Create connection
